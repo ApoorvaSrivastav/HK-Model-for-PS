@@ -1,0 +1,6 @@
+function p_calculation(phi)
+g=.8;
+cos_phi=Cos(phi);
+numerator=1-g^2;
+denominator=
+
