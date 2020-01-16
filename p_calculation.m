@@ -1,6 +1,6 @@
 function p=p_calculation(phi)
 if(nargin==0)
-    phi=54
+    phi=54;
 end
 g=.8;
 cos_phi=cos(phi);
