@@ -1,2 +1,3 @@
 # MATLAB_lappy
-Everything in MATLAB folder in PC
+Implementation of HK Model for applying Photometric Stereo on finger surface
+
